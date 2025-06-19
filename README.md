@@ -1,10 +1,5 @@
-# Geode Tutorials
+# Part 3 - Sprites
 
-This repository is for Geode tutorials from my YouTube channel, available below:
+Watch the video below to learn how to make your own popups. (CURRENTLY UNAVAILABLE)
 
-[![Watch the Playlist](https://i.ytimg.com/vi/XMjqYjwTdYk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAowpZw8OUje98OLOmC85JMur4Z2Q)](https://www.youtube.com/playlist?list=PL5S23FLspYDiZhNBZZnRk5C5qAc-gjln-)
-
-## Table of Contents
-
-- [Part 1 - Hello World](https://github.com/OmgRod/geode-tutorials/tree/part1)
-- [Part 2 - Buttons](https://github.com/OmgRod/geode-tutorials/tree/part2)
+[![Watch the Video](https://i.ytimg.com/vi/XMjqYjwTdYk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAowpZw8OUje98OLOmC85JMur4Z2Q)](https://www.youtube.com/watch?v=XMjqYjwTdYk&list=PL5S23FLspYDiZhNBZZnRk5C5qAc-gjln-&index=1&ab_channel=OmgRod)
