@@ -10,5 +10,10 @@
 	"name": "tutorial",
 	"version": "v1.0.0",
 	"developer": "OmgRod",
-	"description": ""
+	"description": "",
+	"resources": {
+		"sprites": [
+			"res/*.png"
+		]
+	}
 }
