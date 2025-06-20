@@ -8,4 +8,4 @@ This repository is for Geode tutorials from my YouTube channel, available below:
 
 - [Part 1 - Hello World](https://github.com/OmgRod/geode-tutorials/tree/part1)
 - [Part 2 - Buttons](https://github.com/OmgRod/geode-tutorials/tree/part2)
-- [Part 2 - Sprites](https://github.com/OmgRod/geode-tutorials/tree/part3)
+- [Part 3 - Sprites](https://github.com/OmgRod/geode-tutorials/tree/part3)
