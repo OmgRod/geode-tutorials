@@ -1,14 +1,7 @@
 {
-	"geode": "4.5.0",
-	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
-	},
-	"id": "omgrod.tutorial",
-	"name": "tutorial",
-	"version": "v1.0.0",
-	"developer": "OmgRod",
-	"description": ""
+  "geode": "3.0.0",
+  "id": "colaborador.click_animations",
+  "version": "1.0.0",
+  "name": "Click Animations",
+  "developer": "Colaborador"
 }
